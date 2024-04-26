@@ -10,3 +10,5 @@
 ainara0/ainara0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Ainara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainara0)](https://github.com/Ainara0/github-readme-stats)
